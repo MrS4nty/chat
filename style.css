@@ -6,3 +6,12 @@
 textarea{
     resize: none;
 }
+#contenedor{
+    max-width: 800px;
+    margin: auto;
+}
+#conversaciones{
+    height: 200px;
+    border: 1px solid black;
+    overflow-y: scroll;
+}
